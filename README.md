@@ -13,3 +13,7 @@ python3 cal.gen.dis.py  \
       ./example/genetic_map_chr22_combined_b38.txt.gz  \
       ./example/chr22.map.gz  \
       22
+
+#Citations:
+If you use this script in your project, please cite
+Hoh BP, Zhang X, Deng L, Yuan K, Yew CW, Saw WY, et al. Shared Signature of Recent Positive Selection on the TSBP1-BTNL2-HLA-DRA Genes in Five Native Populations from North Borneo. Genome Biol Evol 2020;12:2245-2257. https://doi.org/10.1093/gbe/evaa207
